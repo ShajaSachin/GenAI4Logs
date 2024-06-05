@@ -1,1 +1,1 @@
-Anomaly Detection using RAG pipline with LlamaIndex and Langchain
+Anomaly Detection using RAG pipeline with LlamaIndex and Langchain
